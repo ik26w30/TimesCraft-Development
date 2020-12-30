@@ -21,9 +21,6 @@ public class SetupConfig {
                 //
             }
         }
-
-        //  customFile = YamlConfiguration.loadConfiguration(file);
-
     }
 
     public static FileConfiguration getYaml(){
