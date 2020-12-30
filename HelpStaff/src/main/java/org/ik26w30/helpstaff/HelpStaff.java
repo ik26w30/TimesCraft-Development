@@ -27,7 +27,6 @@ public final class HelpStaff extends JavaPlugin {
 
     private void registerCommands() {
         this.getCommand("helpstaff").setExecutor(new HelpStaffCommand());
-        this.getCommand("helplist").setExecutor(new HelpListCommand());
     }
 
     public static HelpStaff getInstance(){
