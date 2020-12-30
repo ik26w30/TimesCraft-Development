@@ -1,0 +1,5 @@
+lang:
+  no-perms-msg: '&3Hey'
+  args-wronged: '&3Use /staffwarn <player> <reason>'
+  target-not-found: '&3Target not found'
+  staff-warn-yourself: '&3Self'
